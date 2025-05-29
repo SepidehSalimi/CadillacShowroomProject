@@ -1,0 +1,33 @@
+C:\Users\C1\Desktop\car-websit\Project-CarShope\BE\bin\Debug\net8.0\BE.deps.json
+C:\Users\C1\Desktop\car-websit\Project-CarShope\BE\bin\Debug\net8.0\BE.dll
+C:\Users\C1\Desktop\car-websit\Project-CarShope\BE\bin\Debug\net8.0\BE.pdb
+C:\Users\C1\Desktop\car-websit\Project-CarShope\BE\obj\Debug\net8.0\BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1\Desktop\car-websit\Project-CarShope\BE\obj\Debug\net8.0\BE.AssemblyInfoInputs.cache
+C:\Users\C1\Desktop\car-websit\Project-CarShope\BE\obj\Debug\net8.0\BE.AssemblyInfo.cs
+C:\Users\C1\Desktop\car-websit\Project-CarShope\BE\obj\Debug\net8.0\BE.csproj.CoreCompileInputs.cache
+C:\Users\C1\Desktop\car-websit\Project-CarShope\BE\obj\Debug\net8.0\BE.dll
+C:\Users\C1\Desktop\car-websit\Project-CarShope\BE\obj\Debug\net8.0\refint\BE.dll
+C:\Users\C1\Desktop\car-websit\Project-CarShope\BE\obj\Debug\net8.0\BE.pdb
+C:\Users\C1\Desktop\car-websit\Project-CarShope\BE\obj\Debug\net8.0\ref\BE.dll
+F:\car-websit\Project-CarShope\BE\bin\Debug\net8.0\BE.deps.json
+F:\car-websit\Project-CarShope\BE\bin\Debug\net8.0\BE.dll
+F:\car-websit\Project-CarShope\BE\bin\Debug\net8.0\BE.pdb
+F:\car-websit\Project-CarShope\BE\obj\Debug\net8.0\BE.GeneratedMSBuildEditorConfig.editorconfig
+F:\car-websit\Project-CarShope\BE\obj\Debug\net8.0\BE.AssemblyInfoInputs.cache
+F:\car-websit\Project-CarShope\BE\obj\Debug\net8.0\BE.AssemblyInfo.cs
+F:\car-websit\Project-CarShope\BE\obj\Debug\net8.0\BE.csproj.CoreCompileInputs.cache
+F:\car-websit\Project-CarShope\BE\obj\Debug\net8.0\BE.dll
+F:\car-websit\Project-CarShope\BE\obj\Debug\net8.0\refint\BE.dll
+F:\car-websit\Project-CarShope\BE\obj\Debug\net8.0\BE.pdb
+F:\car-websit\Project-CarShope\BE\obj\Debug\net8.0\ref\BE.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\BE\bin\Debug\net8.0\BE.deps.json
+F:\car-websit\پروژه پایانی\Project-CarShope\BE\bin\Debug\net8.0\BE.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\BE\bin\Debug\net8.0\BE.pdb
+F:\car-websit\پروژه پایانی\Project-CarShope\BE\obj\Debug\net8.0\BE.GeneratedMSBuildEditorConfig.editorconfig
+F:\car-websit\پروژه پایانی\Project-CarShope\BE\obj\Debug\net8.0\BE.AssemblyInfoInputs.cache
+F:\car-websit\پروژه پایانی\Project-CarShope\BE\obj\Debug\net8.0\BE.AssemblyInfo.cs
+F:\car-websit\پروژه پایانی\Project-CarShope\BE\obj\Debug\net8.0\BE.csproj.CoreCompileInputs.cache
+F:\car-websit\پروژه پایانی\Project-CarShope\BE\obj\Debug\net8.0\BE.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\BE\obj\Debug\net8.0\refint\BE.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\BE\obj\Debug\net8.0\BE.pdb
+F:\car-websit\پروژه پایانی\Project-CarShope\BE\obj\Debug\net8.0\ref\BE.dll

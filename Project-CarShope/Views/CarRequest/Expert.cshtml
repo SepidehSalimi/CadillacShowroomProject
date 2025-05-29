@@ -1,0 +1,76 @@
+﻿@model BE.CarRequest;
+
+@{
+    ViewData["Title"] = "درخواست کارشناسی خودرو";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Links {
+    <link rel="stylesheet"
+          href="~/css/all.min.css" />
+
+    <link rel="stylesheet" href="~/css/style3.css" />
+}
+
+
+    <section class="about" id="about">
+        <h1 class="heading">کارشناسی خودرو</h1>
+
+        <div class="row">
+            <div class="content">
+                <div class="comment-box">
+                    <h4>برای ثبت درخواست کارشناسی خودرو اطلاعات زیر را تکمیل کنید:</h4>
+                <form asp-action="Expert" asp-asp-controller="CarRequest" enctype="multipart/form-data" method="post" class="comment-form" id="formContact">
+                        <input asp-for="FullName" type="text" placeholder="نام کامل  خود را وارد کنید" />
+                        <input asp-for="PhoneNum" type="text" placeholder="شماره تماس" />
+                        <input asp-for="CarDetails" type="text" placeholder="مدل /تیپ /برند خودرو" />
+        
+                        <button type="submit">ثبت درخواست</button>
+                    </form>
+
+                <div style="display:none; color: limegreen; padding:10px; border:1px solid limegreen; margin-bottom:10px; background-color:ghostwhite; font-size:15px;
+ border-radius:5rem;" id="successMess">
+                      
+                        </div>
+                    
+                </div>
+            </div>
+
+            <div class="image">
+                <img src="~/images/CAR-expert.webp" alt="" />
+            </div>
+        </div>
+    </section>
+
+
+  @section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="~/js/main.js"></script>
+    <script src="https://code.jquery.com/jquery-3-6-0.min.js"></script>
+    <script>
+        $("#formContact").submit(function (e) {
+            e.preventDefault();
+            $.ajax({
+                type: "POST",
+                url: "/CarRequest/Expert",
+                data: $(this).serialize(),
+                success: function (res) {
+                    $("#successMess").text("درخواست شما با موفقیت ارسال شد").fadeIn();
+                    $("#formContact")[0].reset();
+                    setTimeout(function () {
+                        $("#successMess").fadeOut();
+                    }, 4000);
+                },
+                error: function () {
+                    $("#successMess").text("خطا در ارسال درخواست").css("color", "red").fadeIn();
+                    setTimeout(function () {
+                        $("#successMess").fadeOut();
+                    }, 4000);
+                }
+            });
+        });
+    </script>
+  }
+
+
+

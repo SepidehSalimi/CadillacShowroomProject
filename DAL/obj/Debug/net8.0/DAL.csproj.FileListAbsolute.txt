@@ -1,0 +1,53 @@
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\BE.dll
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\BLL.dll
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\BE.pdb
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\BLL.pdb
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\C1\Desktop\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\ref\DAL.dll
+F:\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\DAL.deps.json
+F:\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+F:\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\DAL.dll
+F:\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\DAL.pdb
+F:\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\BE.dll
+F:\car-websit\Project-CarShope\DAL\bin\Debug\net8.0\BE.pdb
+F:\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+F:\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+F:\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+F:\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+F:\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+F:\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.dll
+F:\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\refint\DAL.dll
+F:\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.pdb
+F:\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+F:\car-websit\Project-CarShope\DAL\obj\Debug\net8.0\ref\DAL.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\bin\Debug\net8.0\DAL.deps.json
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\bin\Debug\net8.0\DAL.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\bin\Debug\net8.0\DAL.pdb
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\bin\Debug\net8.0\BE.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\bin\Debug\net8.0\BE.pdb
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\obj\Debug\net8.0\DAL.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\obj\Debug\net8.0\refint\DAL.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\obj\Debug\net8.0\DAL.pdb
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+F:\car-websit\پروژه پایانی\Project-CarShope\DAL\obj\Debug\net8.0\ref\DAL.dll

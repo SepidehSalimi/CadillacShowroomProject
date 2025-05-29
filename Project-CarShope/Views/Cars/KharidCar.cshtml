@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "خرید خودرو";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+    var searchtxt = ViewBag.searchtxt as string;
+}
+
+@await Component.InvokeAsync("Car", new { search = searchtxt })

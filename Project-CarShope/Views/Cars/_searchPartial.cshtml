@@ -1,0 +1,40 @@
+﻿@model List<BE.Cars>
+
+@{
+}
+<table id="myTable" class="table striped responsive-table centered">
+    <thead>
+        <tr>
+            <th>عنوان</th>
+            <th>قیمت</th>
+            <th>سال تولید</th>
+            <th>برند</th>
+            <th>مدل</th>
+            <th>توضیحات</th>
+            <th style="height:150px!important;width:150px!important;">عکس</th>
+            <th>دستورات</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td hidden>@i.Id</td>
+                <td>@i.Title</td>
+                <td>@i.Price</td>
+                <td>@i.Year</td>
+                <td>@i.Brand</td>
+                <td>@i.Model</td>
+                <td>@i.Descript</td>
+                <td style="height:150px!important;width:150px!important;"> <img src="/images/cars/@i.ImagePath" id="@i.ImagePath" width="150" height="150" /></td>
+
+                <td>
+                    <a class="modal-trigger btnEdit btn blue waves-button-input">ویرایش</a>
+                    <a class="modal-trigger btnDelete btn red waves-button-input">حذف</a>
+
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

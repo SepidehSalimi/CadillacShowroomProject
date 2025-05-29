@@ -1,0 +1,152 @@
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\appsettings.Development.json
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\appsettings.json
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Project-CarShope.staticwebassets.runtime.json
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Project-CarShope.exe
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Project-CarShope.deps.json
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Project-CarShope.runtimeconfig.json
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Project-CarShope.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Project-CarShope.pdb
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Azure.Core.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Azure.Identity.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Memory.Data.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\BE.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\BLL.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\DAL.dll
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\BE.pdb
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\BLL.pdb
+F:\car-websit\Project-CarShope\Project-CarShope\bin\Debug\net8.0\DAL.pdb
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.csproj.AssemblyReference.cache
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.GeneratedMSBuildEditorConfig.editorconfig
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.AssemblyInfoInputs.cache
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.AssemblyInfo.cs
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.csproj.CoreCompileInputs.cache
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.MvcApplicationPartsAssemblyInfo.cache
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.RazorAssemblyInfo.cache
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.RazorAssemblyInfo.cs
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets.build.json
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets.development.json
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets\msbuild.Project-CarShope.Microsoft.AspNetCore.StaticWebAssets.props
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets\msbuild.build.Project-CarShope.props
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project-CarShope.props
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project-CarShope.props
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets.pack.json
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\scopedcss\bundle\Project-CarShope.styles.css
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\scopedcss\projectbundle\Project-CarShope.bundle.scp.css
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.csproj.CopyComplete
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.dll
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\refint\Project-CarShope.dll
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.pdb
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.genruntimeconfig.cache
+F:\car-websit\Project-CarShope\Project-CarShope\obj\Debug\net8.0\ref\Project-CarShope.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\appsettings.Development.json
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\appsettings.json
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Project-CarShope.staticwebassets.runtime.json
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Project-CarShope.exe
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Project-CarShope.deps.json
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Project-CarShope.runtimeconfig.json
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Project-CarShope.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Project-CarShope.pdb
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Azure.Core.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Azure.Identity.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Memory.Data.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\BE.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\BLL.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\DAL.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\BE.pdb
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\BLL.pdb
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\bin\Debug\net8.0\DAL.pdb
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.csproj.AssemblyReference.cache
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.GeneratedMSBuildEditorConfig.editorconfig
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.AssemblyInfoInputs.cache
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.AssemblyInfo.cs
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.csproj.CoreCompileInputs.cache
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.MvcApplicationPartsAssemblyInfo.cache
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.RazorAssemblyInfo.cache
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.RazorAssemblyInfo.cs
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets.build.json
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets.development.json
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets\msbuild.Project-CarShope.Microsoft.AspNetCore.StaticWebAssets.props
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets\msbuild.build.Project-CarShope.props
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Project-CarShope.props
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Project-CarShope.props
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\staticwebassets.pack.json
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\scopedcss\bundle\Project-CarShope.styles.css
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\scopedcss\projectbundle\Project-CarShope.bundle.scp.css
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.csproj.CopyComplete
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\refint\Project-CarShope.dll
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.pdb
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\Project-CarShope.genruntimeconfig.cache
+F:\car-websit\پروژه پایانی\Project-CarShope\Project-CarShope\obj\Debug\net8.0\ref\Project-CarShope.dll

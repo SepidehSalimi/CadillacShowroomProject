@@ -1,0 +1,221 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+@* @model Project_CarShope.Models.Messages *@
+@model BE.Messages;
+
+<section class="home" id="home">
+    <div class="content">
+        <h1>خرید و فروش خودرو، مطمئن و آسان</h1>
+        <p>
+            لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده
+            از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و
+            سطرآنچنان که لازم است
+        </p>
+        <a href="#"><button>بیشتر بدانید</button></a>
+    </div>
+
+    <div class="box-container">
+        <div class="box">
+            <i class="fas fa-solid fa-car"></i>
+            <h3>کارشناسی خودرو</h3>
+            <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</p>
+        </div>
+
+        <div class="box">
+            <i class="fas fa-solid fa-car"></i>
+            <h3>فروش خودرو</h3>
+            <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</p>
+        </div>
+
+        <div class="box">
+            <i class="fas fa-solid fa-car"></i>
+            <h3>قیمت خودرو</h3>
+            <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</p>
+        </div>
+    </div>
+</section>
+<section class="about" id="about">
+    <h1 class="heading">کارشناسی خودرو</h1>
+
+    <div class="row">
+        <div style="width:50%" class="content">
+            <p>
+                بدون کارشناسی خودرو نخرید. همه‌ی ما برای خرید خودرو نیازمند استفاده
+                از کارشناسان با تجربه و متخصص هستیم که خودرو را پیش از خرید از لحاظ
+                رنگ، فنی و بدنه‌ مورد بررسی قرار داده تا ما خرید رضایت بخشی را تجربه
+                کنیم و از متضرر شدنمان جلوگیری شود. با سرویس کارشناسی خودرو در محل
+                ماشین‌بانک می‌توانید خریدی مطمئن را تجربه کنید
+            </p>
+            <a href="@Url.Action("Expert","CarRequest")"><button>همین حالا درخواست دهید</button></a>
+        </div>
+
+        <div style="width:50%" class="image">
+            <img src="images/flow4.svg" alt="" />
+        </div>
+    </div>
+</section>
+<section class="about" id="price">
+    <h1 class="heading" id="heading">قیمت گذاری خودرو</h1>
+
+    <div class="row">
+        <div class="content">
+            <p>
+                فروش خودرو امر بسیار حساسی است و حساس‌تر از آن، قیمت‌گذاری خودرو
+                هنگام فروش! گاهی به دلیل فروش عجله‌ای و تصمیم‌گیری احساسی، خودرویمان
+                را به قیمت کم فروخته‌ایم و گاهی نیز به دلیل قیمت‌گذاری بالا و
+                نادرست، نتوانسته‌ایم مشتری برای آن پیدا کنیم. معمولا هم برای
+                قیمت‌گذاری روی خودرویمان، از آگهی‌های دیگر کمک میگیریم و بر اساس
+                آنها قیمت خودروی خود را انتخاب می‌کنیم که این روش نیز خطای بسیاری به
+                همراه دارد. با قیمت‌گذار آنلاین ماشین‌بانک، می‌توانید قیمت خودرویتان
+                را به راحتی محاسبه کنید! قیمت‌گذار ماشین‌بانک با استفاده از
+                الگوریتم‌های هوش مصنوعی، قیمت خوردویتان را بر اساس داده‌های موجود در
+                بازار به درستی محاسبه می‌کند.‬‬
+            </p>
+            <a href="#"><button>تخمین قیمت خودرو</button></a>
+        </div>
+
+        <div class="image" style="    height: 70vh;
+    margin-bottom: 5rem;">
+            <img src="images/139333.png" alt="" />
+        </div>
+    </div>
+</section>
+<section id="course" class="course">
+    <div class="box-container">
+        <div class="box">
+            <i class="fas fa-solid fa-car"></i>
+            <h3>قصد فروش دارید؟</h3>
+            <p>
+                با ثبت آگهی خود تنها با چند کلیک، فروش خودروی خود را تسریع کنید ‬‬
+            </p>
+        </div>
+
+        <div class="box">
+            <i class="fab fa-brands fa-searchengin"></i>
+            <h3>ثبت درخواست</h3>
+            <p>جستجوی خودرو را به ما بسپارید</p>
+        </div>
+
+        <div class="box">
+            <i class="fas fa-solid fa-car"></i>
+            <h3>حواله خودرو</h3>
+            <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</p>
+        </div>
+    </div>
+</section>
+<section id="review" class="review">
+    <h1 class="heading">بهترین کارشناس های ما</h1>
+
+    <div class="box-container">
+        <div class="box">
+            <img src="images/pic2.jpg" alt="" />
+            <h3>علی میرزایی</h3>
+            <p>
+                لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+                استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در
+                ستون و سطرآنچنان که لازم است
+            </p>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/pic2.jpg" alt="" />
+            <h3>احمد محمدی</h3>
+            <p>
+                لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+                استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در
+                ستون و سطرآنچنان که لازم است
+            </p>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/pic2.jpg" alt="" />
+            <h3>مجتبی حسینی</h3>
+            <p>
+                لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
+                استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در
+                ستون و سطرآنچنان که لازم است
+            </p>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star-half-alt"></i>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="contact" id="contact">
+    <h1 class="heading">تماس با ما</h1>
+    <h3 class="title">ما عاشق مکالمه هستیم ، اجازه می دهیم صحبت کنیم.</h3>
+
+    <div class="row">
+        <div class="image">
+            <img src="images/contact-us.png" alt="" />
+        </div>
+
+        <div class="form-container">
+           @*  @if (ViewBag.Success != null)
+            {
+                <div style="color: green; padding:10px; border:1px solid green; margin-bottom:10px;" class="alert alert-success">
+                    @ViewBag.Success
+                </div>
+            } *@
+            <form id="formContact" asp-action="SendMess" asp-asp-controller="Home" enctype="multipart/form-data" method="post">
+                <input asp-for="FullName" type="text" placeholder="نام و نام خانوادگی" />
+                <input asp-for="Email" type="email" placeholder="ایمیل شما" />
+                
+                <textarea asp-for="TeaxMess"
+                          id=""
+                          cols="30"
+                          rows="10"
+                          placeholder="پیام شما"></textarea>
+                <input type="submit" value="ارسال" />
+            </form>
+            <div style="display:none; color: limegreen; padding:10px; border:1px solid limegreen; margin-bottom:10px; background-color:ghostwhite; font-size:15px;
+ border-radius:5rem;" id="successMess">
+
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts{
+    <script src="https://code.jquery.com/jquery-3-6-0.min.js"></script>
+    <script>
+        $("#formContact").submit(function (e) {
+            e.preventDefault();
+            $.ajax({
+                type: "POST",
+                url: "/Home/SendMess",
+                data: $(this).serialize(),
+                success: function (res) {
+                    $("#successMess").text("پیام شما با موفقیت ارسال شد").fadeIn();
+                    $("#formContact")[0].reset();
+                    setTimeout(function () {
+                        $("#successMess").fadeOut();
+                    }, 4000);
+                },
+                error:function(){
+                    $("#successMess").text("خطا در ارسال پیام").css("color", "red").fadeIn();
+                }
+            });
+        });
+    </script>
+}

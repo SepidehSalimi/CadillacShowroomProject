@@ -1,0 +1,25 @@
+﻿@model List<BE.CarRequest>
+
+<table id="myTable" class="table striped responsive-table centered">
+    <thead>
+        <tr>
+            <th>نام درخواست دهنده</th>
+            <th>شماره تماس</th>
+            <th>جزئیات ماشین</th>
+            <th>تاریخ درخواست</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td hidden>@i.Id</td>
+                <td>@i.FullName</td>
+                <td>@i.PhoneNum</td>
+                <td>@i.CarDetails</td>
+                <td>@i.ReqDate.ToString("yyyy/MM/dd HH:mm")</td>
+
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,67 @@
+﻿ @model List<BE.Cars>
+
+@* @model List<Project_CarShope.Models.Cars> *@
+
+
+    <section class="location">
+        <img src="~/images/custom-sales-pic.c05bfbab.svg" />
+    </section>
+    <section class="contact-us">
+        <div class="row">
+            <div class="contact-col">
+                <div>
+                    <span>
+                        <h5 style="
+                  font-size: 3rem;
+                  text-align: center;
+                  color: var(--pink);
+                  padding: 30px;
+                ">
+                            خرید و فروش خودرو صفر ، کارکرده و کارشناسی شده
+                        </h5>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="product" id="product">
+        <div class="box-container">
+
+            @{
+          
+           
+                @foreach (var item in Model)
+                {
+                    <div class="box">
+                        @* <span class="discount">کارشناسی شده</span> *@
+                        <img src="~/images/cars/@item.ImagePath"
+                             alt="" />
+                        <h3>@item.Title @item.Model </h3>
+
+                        <div class="price">@item.Price تومان</div>
+                        <p>@item.Year @item.Brand</p>
+                        <div class="quantity"></div>
+                        <a href="/Cars/Detail/@item.Id"
+                           class="btn"
+                           style="
+                      background-color: var(--green);
+                      width: 100%;
+                      font-size: 2rem;
+                      text-align: center;
+                      color: white;
+                      border-radius: 5px;
+                                ">نمایش جزئیات</a>
+                    </div>
+                }
+
+           
+            }
+          
+
+
+        </div>
+    </section>
+
+    <!----->
+

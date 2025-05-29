@@ -1,0 +1,33 @@
+﻿
+@model List<BE.Messages>
+
+@{
+}
+<table id="myTable" class="table striped responsive-table centered">
+    <thead>
+        <tr>
+            <th>نام ارسال کننده</th>
+            <th>ایمیل</th>
+            <th>متن پیام</th>
+            <th>تاریخ دریافت</th>
+            <th>دستورات</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td hidden>@i.Id</td>
+                <td>@i.FullName</td>
+                <td>@i.Email</td>
+                <td>@i.TeaxMess</td>
+                <td>@i.DateReceived.ToString("yyyy/MM/dd HH:mm")</td>
+                <td>
+                    <a class="modal-trigger btnDelete btn red waves-button-input">حذف</a>
+
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
