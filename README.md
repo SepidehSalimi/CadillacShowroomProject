@@ -15,5 +15,8 @@
 - C#  
 - ASP.NET Core MVC  
 - Entity Framework  
-- SQL Server  
+- SQL Server
+- HTML
+- CSS
+- JS
 - Bootstrap (برای طراحی ظاهری)
